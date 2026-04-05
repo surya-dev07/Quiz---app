@@ -1,4 +1,4 @@
-const questions = [
+9const questions = [
   {
     question: "Capital of India?",
     options: ["Mumbai", "Delhi", "Chennai"],
