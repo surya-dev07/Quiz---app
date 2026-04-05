@@ -1,3 +1,4 @@
+alert("JS Loaded"); 
 const questions = [
   {
     question: "Capital of India?",
