@@ -1,3 +1,4 @@
+alert("JS Loaded");
 9const questions = [
   {
     question: "Capital of India?",
